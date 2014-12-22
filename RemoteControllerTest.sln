@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteControllerTest", "RemoteControllerTest\RemoteControllerTest.csproj", "{DE396119-BC4A-4519-863C-FA796DE0B32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Release|iPhone.Build.0 = Release|iPhone
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DE396119-BC4A-4519-863C-FA796DE0B32B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RemoteControllerTest\RemoteControllerTest.csproj
+	EndGlobalSection
+EndGlobal
